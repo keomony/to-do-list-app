@@ -1,4 +1,4 @@
-package com.mony.demo;
+package com.mony.todo;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

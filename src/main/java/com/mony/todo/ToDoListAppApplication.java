@@ -1,4 +1,4 @@
-package com.mony.demo;
+package com.mony.todo;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

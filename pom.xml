@@ -9,7 +9,7 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.mony</groupId>
-    <artifactId>demo</artifactId>
+    <artifactId>todo</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>ToDoListApp</name>
     <description>Side project for Spring Boot, Restful API</description>
